@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/atesgoral/hrm-level-outbox-generator#readme",
   "devDependencies": {
-    "nodeunit": "^0.9.1"
+    "nodeunit": "^0.11.3"
   },
   "dependencies": {
     "hrm-level-data": "^1.1.0",
